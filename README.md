@@ -12,7 +12,7 @@ Some core skills that are used are:
 Deliverables:
 
     * Deliverable 1: Scrape titles and preview text from the articles. - part_1_mars_news.ipynb
-    * Deliverable 2: Scrape and analyze data, which exists in a table. - part_2_mars_weather.ipynb
+    * Deliverable 2: Scrape and data analysis, which exists in a table. - part_2_mars_weather.ipynb
 
 Python Libraries used:
     * Pandas
