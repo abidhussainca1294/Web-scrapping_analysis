@@ -7,7 +7,7 @@ Some core skills that are used are:
     * Data collection
     * Data organization and storing
     * Data Analysis
-    *Data visualisation for insights communication.
+    * Data visualisation for insights communication.
 
 Deliverables:
 
